@@ -31,4 +31,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### Screenshot
 <img src="/public/images/Screenshot (23).png">
-<img src="/public/images/Screenshot (24).png.png">
+<img src="/public/images/Screenshot (24).png">
