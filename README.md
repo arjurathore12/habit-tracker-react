@@ -27,7 +27,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://arjurathore12.github.io/habit-tracker-react/](https://arjurathore12.github.io/habit-tracker-react/)
+This section has moved here: [https://master--quiet-concha-0c0259.netlify.app/](https://master--quiet-concha-0c0259.netlify.app/)
 
 ### Screenshot
 <img src="/public/images/Screenshot (23).png">
